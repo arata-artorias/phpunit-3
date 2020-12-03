@@ -1,0 +1,13 @@
+{
+    "require-dev": {
+        "phpunit/phpunit": "^8"
+    },
+    "autoload": {
+        "classmap": [
+            "src/",
+            "src/Exceptions",
+            "tests/traits"
+        ]
+    }
+}
+
